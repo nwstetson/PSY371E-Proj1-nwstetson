@@ -1,3 +1,1 @@
-# PSY371E-Proj1-nwstetson
-
-Here test test 
+This Respiratory is forked from @nwstetson and initially edited by Jedsada Thavornfung (@jedsadatha)
